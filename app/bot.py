@@ -14,7 +14,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from loguru import logger
 from decouple import config
 
-from data import tasks, get_random_tasks
+from app.data import tasks, get_random_tasks
 
 # ================= PERFORMANCE ================= #
 
