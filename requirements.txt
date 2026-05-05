@@ -1,5 +1,5 @@
-aiogram
-icecream
-python-decouple
-uvloop 
-loguru
+aiogram==3.27.0
+icecream==2.2.0
+python-decouple==3.8
+uvloop==0.22.1
+loguru==0.7.3
